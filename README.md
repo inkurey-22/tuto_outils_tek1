@@ -47,7 +47,9 @@ Rentrer dans le dossier, copiez le dossier ``.emacs.d``. Si vous ne le voyez pas
 Après avoir copié le ``.emacs.d``, allez dans la section "Home" de l'explorateur de fichier et collez ce dossier.
 
 À présent, lorsque vous serez dans un fichier .c, .h ou un Makefile et que vous faites la combinaison de touche :
+
 ``Ctrl + c``, relâcher puis ``h``,
+
 vous aurez un prompt en bas de l'écran demandant un nom de projet ainsi qu'une description de fichier. Entrez ce que vous voulez et le header devrait apparaître. De plus, l'indentation sera configurée pour utiliser 4 espaces.
 
 ## FIN
