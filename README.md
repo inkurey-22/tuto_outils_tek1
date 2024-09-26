@@ -15,7 +15,7 @@ Puis
 ```
 sudo apt upgrade
 ```
-Là, il vous demandera votre confirmation pour installer les nouveaux packages. Écrivez simplement ``y`` puis ``Entrer``.
+Là, il vous demandera votre confirmation pour installer les nouveaux packages. Écrivez simplement ``y`` puis ``Entrée``.
 
 ## 2. Installation des outils.
 Ici, ma source est tout simplement le [github officiel d'Epitech](https://github.com/epitech/dump) avec leur commande d'installation des outils.
